@@ -213,7 +213,7 @@
     "@babel/core": "^7.0.0",
     "@babel/generator": "^7.0.0",
     "@reactions/component": "^2.0.2",
-    "async": "^2.4.0",
+    "async": "^3.2.2",
     "babel-eslint": "9.0.0",
     "coveralls": "^3.0.2",
     "detox": "9.0.4",
